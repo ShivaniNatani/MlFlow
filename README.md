@@ -134,5 +134,3 @@ This project is open source and free to use under the [MIT License](LICENSE).
 ```
 
 ---
-
-Let me know when you're done — I can then help you add a `setup.sh` for collaborators or a `contribution` section if you'd like 🌟
