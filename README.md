@@ -1,16 +1,4 @@
 
-### ✅ How to Update on GitHub
-
-1. Go to your repo: [https://github.com/ShivaniNatani/MlFlow](https://github.com/ShivaniNatani/MlFlow)
-2. Click on the `README.md` file  
-3. Click the ✏️ “Edit this file” button (top right)
-4. **Delete everything** and **paste** the content below
-5. Scroll down and click **“Commit changes”**
-
----
-
-### 📄 `README.md`
-
 ```markdown
 🚀 MLflow Anomaly Detection Project
 
@@ -85,14 +73,16 @@ Then visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 🖼️ MLflow UI Snapshots
+### 📸 MLflow UI Snapshots
 
-### 📸 Anomaly Detection Experiment  
+---
+
+### 🎰 Anomaly Detection Experiment  
 <img src="screenshots/anomaly_runs.png" width="800"/>
 
 ---
 
-### 🧪 First Experiment  
+### ✏️ First Experiment  
 <img src="screenshots/first_experiment_runs.png" width="800"/>
 
 ---
@@ -110,26 +100,31 @@ Then visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ### 📊 MLflow Run Comparison  
 <img src="screenshots/comparison_plot.png" width="800"/>
 
+---
+
+
 
 
 ---
 
-🧰 Tech Stack
+### 🧰 Tech Stack
 
-- Python
-- MLflow
-- Scikit-learn
-- XGBoost
-- Imbalanced-learn
-- Pandas, NumPy, Matplotlib
+- 🐍 **Python**
+- 🔁 **MLflow**
+- 📘 **Scikit-learn**
+- 🌲 **XGBoost**
 
 ---
 
-👩🏻‍💻 Author
+### 👩‍💻 Author
 
-**Shivani Natani**  
-🔗 [LinkedIn](https://www.linkedin.com/in/shivaninatani76/)  
-💻 [GitHub](https://github.com/ShivaniNatani)
+**Shivani Natani**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shivaninatani76/)
+- 💻 [GitHub](https://github.com/ShivaniNatani)
+
+---
+
 
 ---
 
